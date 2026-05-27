@@ -8,6 +8,7 @@ elif valor > 20 and valor <= 30:
     print(f"O valor {valor}, esta na faixa entre 21 e 30")
 else:
     print(f"O valor esta na faixa maior que 30")   
+    print("teste")
 
 
 
