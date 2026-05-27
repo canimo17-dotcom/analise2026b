@@ -6,4 +6,5 @@ if idade >= 18 and genero == "m":
 
 else:
     print("Voce não está apto")   
+  
 
